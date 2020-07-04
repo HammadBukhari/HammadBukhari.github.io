@@ -42034,7 +42034,7 @@ vh:function(a){var t=F.aH(a,!1)
 t=t.gfN(t)===C.h4?new P.U(200,200):new P.U(300,300)
 return new T.cs(new S.a4(0,t.a,0,t.b),new A.oT(new E.Fe(),null),null)},
 uY:function(a){var t=null
-return new T.cv(new V.av(F.aH(a,!1).a.a*0.05,0,F.aH(a,!1).a.a*0.05,0),new T.cs(new S.a4(0,500,0,1/0),new T.cR(C.K,t,t,L.eY("Hey, I\u2019m Hammad Aly \nI\u2019m an Android & iOS Developer\n\nI\u2019m here to turn your ideas into mobile applications. Being a UI/UX enthusiast, I will make sure your apps deliver their true purpose to attract and retain your potential users. Development is my hobby and passion. When I\u2019m not developing, I\u2019m learning about the new best practices.\n\nExpect a clean written, and an efficient code bundled with a beautiful Interface and functional User Experience.",t,t,t,t,t,t,t,t,t,t,t),t),t),t)},
+return new T.cv(new V.av(F.aH(a,!1).a.a*0.05,0,F.aH(a,!1).a.a*0.05,0),new T.cs(new S.a4(0,500,0,1/0),new T.cR(C.K,t,t,L.eY("Hey, I\u2019m Hammad Ali \nI\u2019m an Android & iOS Developer\n\nI\u2019m here to turn your ideas into mobile applications. Being a UI/UX enthusiast, I will make sure your apps deliver their true purpose to attract and retain your potential users. Development is my hobby and passion. When I\u2019m not developing, I\u2019m learning about the new best practices.\n\nExpect a clean written, and an efficient code bundled with a beautiful Interface and functional User Experience.",t,t,t,t,t,t,t,t,t,t,t),t),t),t)},
 I:function(a){var t=this,s=null,r=F.WZ(a),q=F.aH(a,!1),p=u.t
 return K.Wb(r,E.NZ(new T.cv(C.tL,q.gfN(q)===C.h5?T.hx(H.b([new T.cR(C.K,s,s,T.lJ(H.b([t.vh(a),new T.iT(1,C.nO,t.uY(a),s)],p),C.an,C.a_,C.da),s),t.vC(a)],p),C.an,C.a_,C.aJ):T.hx(H.b([t.vh(a),new T.dp(s,32,s,s),t.uY(a),t.vC(a)],p),C.an,C.a_,C.aJ),s)),"About Hammad Ali")},
 vC:function(a){var t=null
@@ -42081,7 +42081,7 @@ $R:0,
 $S:0}
 O.w2.prototype={
 BE:function(a){var t=F.aH(a,!1),s=t.gfN(t)===C.h4?1:3
-return new S.qK(C.F.ax(12/s),new O.IS(s))},
+return new S.qK(C.F.ax(8/s),new O.IS(s))},
 I:function(a){var t=this,s=null,r=t.BE(a),q=B.kS(s,L.JD(C.u4,s),new O.IP(t),s),p=F.aH(a,!1),o=B.a2T(!1,!0,!1,p.gfN(p)===C.h4?450:600,1)
 return M.cS(s,T.lJ(H.b([q,T.Y9(new O.nP(o,r.b,t.c,r.a,s)),B.kS(s,L.JD(C.u5,s),new O.IQ(t),s)],u.t),C.an,C.a_,C.aJ),s,s,s,s,s,s,s)}}
 O.IS.prototype={
@@ -45750,8 +45750,8 @@ $.XF=null
 $.a_p=null
 $.a7O=function(){var t=u.X
 return P.aR(["Email","hammadalishahbukhari@gmail.com","Phone No.","+923494296459"],t,t)}()
-$.a81=function(){var t="assets/shajar (5).png"
-return H.b(["assets/shajar (1).png","assets/shajar (2).png","assets/shajar (3).png","assets/shajar (4).png",t,"assets/shajar (6).png",t,"assets/shajar (7).png","assets/shajar (8).png","assets/shajar (9).png","assets/shajar (10).png","assets/shajar (11).png","assets/shajar (12).png"],u.i)}()
+$.a81=function(){var t="assets/pic (5).png"
+return H.b(["assets/pic (1).png","assets/pic (2).png","assets/pic (3).png","assets/pic (4).png",t,"assets/pic (6).png",t,"assets/pic (7).png","assets/pic (8).png"],u.i)}()
 $.a58=P.bT(["http","https","mailto"],u.X)})();(function lazyInitializers(){var t=hunkHelpers.lazy
 t($,"aaf","a1G",function(){return H.ZB(0,0,1)})
 t($,"a9A","a1e",function(){return J.a0($.aD.h(0,"PaintStyle"),"Stroke")})
